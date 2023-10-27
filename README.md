@@ -18,7 +18,7 @@ The OptiGrow website is a basic web page that provides contact information and a
 
 - **Contact Information:** This section provides the contact information for inquiries or assistance, including an email address and phone number.
 
-- **Feedback Link:** Users can click on the "Feedback Form" button to provide feedback. The button has a hover effect and a link to a feedback form hosted at "https://optigrowfeedbackform.com/".
+- **Feedback Link:** Users can click on the "Feedback Form" button to provide feedback. The button has a hover effect and a link to a feedback form hosted at "https://bit.ly/LesOpti".
 
 ## Usage
 
